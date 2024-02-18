@@ -1,0 +1,12 @@
+controller:
+  nodeSelector:
+    kubernetes.io/hostname: c-nuc7
+  
+  service:
+    type: NodePort
+    nodePorts:
+      http: 32366
+      https: 30197
+      tcp:
+        25565: 35565
+

@@ -9,4 +9,4 @@ controller:
       https: 30197
 
 tcp:
-  25565: "minecraft-server/minecraft-server-minecraft:25565"
+  25565: "minecraft-server/minecraft-server-minecraft-264tl:25565"

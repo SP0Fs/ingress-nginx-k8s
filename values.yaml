@@ -7,7 +7,8 @@ controller:
     nodePorts:
       http: 32366
       https: 30197
-      32565: 32566
+      tcp:
+        32565: 32566
 
 tcp:
   32565: "minecraft-server/minecraft-server-minecraft:25565"

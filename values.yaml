@@ -8,7 +8,7 @@ controller:
       http: 32366
       https: 30197
       tcp:
-        25565: 32566
+        25565: 30566
 
 tcp:
   25565: "minecraft-server/minecraft-server-minecraft:25565"

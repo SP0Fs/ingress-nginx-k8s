@@ -9,7 +9,7 @@ controller:
       https: 30197
       tcp:
         25565: 32565 # minecraft
-        27015: 27015 # factorio
+        27015: 32015 # factorio
       udp:
         34197: 34197 # factorio
 

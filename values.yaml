@@ -11,7 +11,7 @@ controller:
         25565: 32565 # minecraft
         27015: 32015 # factorio
       udp:
-        34197: 34197 # factorio
+        34197: 32197 # factorio
 
 tcp:
   25565: "minecraft-server/minecraft-server-minecraft:25565"

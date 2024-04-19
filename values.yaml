@@ -1,6 +1,6 @@
 controller:
   nodeSelector:
-    ingress: true
+    ingress: "true"
 
   service:
     type: NodePort
